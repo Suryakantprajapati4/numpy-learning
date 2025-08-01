@@ -10,6 +10,9 @@ Learning NumPy from scratch. Comparing Python lists vs NumPy arrays.
 - `list_vs_numpy.py` – Comparison of Python lists vs NumPy arrays.
 - `2d_array_operations.py` – Basic operations on 2D arrays.
 
+### 🔹 Array Slicing
+- `array_slicing.py` – Practice with slicing rows, columns, and combined sections of 2D arrays.
+
 ### 🔹 3D Array Indexing
 - `3d_array_indexing.py` – Create and index 3D NumPy arrays, access elements, and combine values into strings.
 
@@ -21,3 +24,4 @@ Learning NumPy from scratch. Comparing Python lists vs NumPy arrays.
 - Array shape and dimension (`shape`, `ndim`)
 - Accessing specific elements
 - Combining elements to form custom outputs
+- **Advanced slicing (row, column, combined)**
