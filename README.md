@@ -24,4 +24,4 @@ Learning NumPy from scratch. Comparing Python lists vs NumPy arrays.
 - Array shape and dimension (`shape`, `ndim`)
 - Accessing specific elements
 - Combining elements to form custom outputs
-- **Advanced slicing (row, column, combined)
+- Advanced slicing (row, column, combined)
