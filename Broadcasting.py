@@ -13,3 +13,12 @@ print(array1 + array2)
 print(array1 - array2)
 print(array1 / array2)
 print(array1 ** array2)
+
+#Practice
+a = np.array([[1,2,3,4,5,6,7,8,9,10]])
+b = np.array([[[1],[2],[3],[4],[5],[6],[7],[8],[9],[10]]])
+
+print(a.shape)
+print(b.shape)
+
+print(a*b)
