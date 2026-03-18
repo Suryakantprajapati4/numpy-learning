@@ -13,3 +13,12 @@ array= np.array([[1,2,3,4],
 #print(np.argmin(array))
 #print(np.argmax(array))
 
+
+# Sum of entire array
+print("Total Sum:", np.sum(array))
+
+# Sum column wise
+print("Column Sum:", np.sum(array, axis=0))
+
+# Sum row wise
+print("Row Sum:", np.sum(array, axis=1))
